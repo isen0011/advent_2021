@@ -1,0 +1,2 @@
+eql z w
+inp w
